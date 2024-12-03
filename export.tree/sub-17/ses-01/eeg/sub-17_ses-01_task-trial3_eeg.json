@@ -1,0 +1,9 @@
+{
+    "TaskName": "trial3",
+    "SamplingFrequency": 10000.0,
+    "SoftwareFilters": "n/a",
+    "EEGChannelCount": 4,
+    "EOGChannelCount": 1,
+    "EEGReference": "subcutaneous near scalp",
+    "PowerLineFrequency": 50
+}
