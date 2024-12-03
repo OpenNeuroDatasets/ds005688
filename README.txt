@@ -2,7 +2,7 @@ Dataset description
 ===================
 
 This dataset was collected for the study "Diagnostic ultrasound enhances, then reduces, exogenously induced brain activity of mice" by Tan et al. (2024). The research demonstrates how transcranially delivered diagnostic ultrasound (tDUS) modulates the brain's receptivity to external stimuli, using a blinking light stimulus in a mouse model.
-The study findings highlight the potential for diagnostic ultrasound to intentionally modulate brain function, paving the way for its clinical and therapeutic applications.
+The study findings highlight the potential for diagnostic ultrasound to intentionally modulate brain function, paving the way for possible future clinical and therapeutic applications.
 Please cite the following paper when using this dataset:
 
 Tan H, Griggs DJ, Chen L, et al. Diagnostic ultrasound enhances, then reduces, exogenously induced brain activity of mice. Frontiers in Neuroscience. 2024. DOI: [in peer review].
@@ -11,9 +11,9 @@ Tan H, Griggs DJ, Chen L, et al. Diagnostic ultrasound enhances, then reduces, e
 License
 -------
 
-This dataset is proprietary to the **Department of Neurological Surgery, University of Washington, Seattle, WA, USA**.  
+This dataset is proprietary to the Department of Neurological Surgery, University of Washington, Seattle, WA, USA.  
 Usage is restricted to academic and non-commercial research. Redistribution, modification, or commercial use is prohibited without prior permission.  
-For inquiries, contact: Pierre D. Mourad** (doumitt@uw.edu).
+For inquiries, contact: Pierre D. Mourad (doumitt@uw.edu).
 
 
 Acknowledgements
